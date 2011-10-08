@@ -10,5 +10,5 @@ updating them if no `upstream` branch exists.
 
 ## Usage
 
-    keep-up <directory>
+    lua keep-up.lua <directory>
 
